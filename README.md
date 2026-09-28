@@ -73,8 +73,6 @@ This project demonstrates RAG on the **CMR University Student Handbook (Academic
 | **Topics Covered** | Academic regulations, attendance policy, examinations (CIE/SEE), grading system (SGPA/CGPA), hostel facilities, placement centre, library, LEAP programme, code of conduct, student grievance redressal |
 | **Total Chunks** | 120 |
 
-### ⚠️ Note
-The PDF is **not included** in this repository due to privacy and copyright considerations. To run the project:
 
 1. Download any 100+ page text-based PDF
 2. Place it at `data/handbook.pdf`
